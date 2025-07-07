@@ -59,4 +59,12 @@ export default defineConfig({
       ],
     }),
   ],
+  css: {
+    preprocessorOptions: {
+      scss: {
+        api: 'modern',
+        silenceDeprecations: ['legacy-js-api', 'mixed-decls', 'color-functions', 'global-builtin', 'import'],
+      },
+    },
+  },
 })
