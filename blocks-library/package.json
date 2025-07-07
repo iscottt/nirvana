@@ -1,0 +1,14 @@
+{
+  "name": "blocks-complier",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "vue-cli-service build --no-clean",
+    "watch": "vue-cli-service build --watch --no-clean --mode development"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "5.0.0",
+    "@vue/cli-service": "5.0.0",
+    "vue": "^3.2.13"
+  }
+}
