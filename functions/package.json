@@ -1,0 +1,30 @@
+{
+  "name": "functions",
+  "private": true,
+  "version": "0.0.0",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/function.umd.cjs",
+  "module": "./dist/function.js",
+  "types": "./index.d.ts",
+  "exports": {
+    "import": "./dist/function.js",
+    "require": "./dist/function.umd.cjs"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "ali-oss": "^6.20.0",
+    "alipay-sdk": "^3.4.0",
+    "axios": "^1.4.0",
+    "big.js": "^7.0.1",
+    "feed": "^4.2.2",
+    "moment-timezone": "^0.5.45",
+    "multiparty": "^4.2.3",
+    "terser-webpack-plugin": "^5.3.9",
+    "webpack": "^5.85.0",
+    "webpack-cli": "^5.1.1"
+  }
+}
