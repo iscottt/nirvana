@@ -1,0 +1,6 @@
+source/node_modules
+web
+.DS_Store
+*.zip
+.idea
+
