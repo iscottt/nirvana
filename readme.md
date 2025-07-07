@@ -38,7 +38,7 @@ niRvana · 轻拟物 WordPress 主题
 
 # 注意
 
-niRvana 使用 [GPL V3.0](https://github.com/michaelliunsky/niRvana-theme/blob/main/LICENSE) 协议开源，请遵守此协议进行二次开发等。
+niRvana 使用 [GPL V3.0](https://github.com/iscottt/nirvana/blob/main/LICENSE) 协议开源，请遵守此协议进行二次开发等。
 
 您**必须在页脚保留 niRvana 主题的名称及作者链接**，否则请不要使用 niRvana 主题。
 
